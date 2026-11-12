@@ -1,5 +1,3 @@
-# Banking Loan Portfolio & Risk Analysis
-
 # 🏦 Banking Loan Portfolio Analysis | SQL & Power BI
 
 ## 📌 Project Overview
